@@ -1,18 +1,6 @@
 {
   "name": "tutility",
   "tree": {
-    "$className": "DataModel",
-
-    "ReplicatedStorage": {
-      "$className": "ReplicatedStorage",
-
-      "Packages": {
-        "$className": "Folder",
-
-        "tutility": {
-          "$path": "src"
-        }
-      }
-    }
+    "$path": "src"
   }
 }
